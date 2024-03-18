@@ -10,11 +10,11 @@ Ce projet vise à recoder la fonction printf() de la libc. L'objectif est d'appr
 
 | Fichier           | Description                                           | Responsabilité                                  | Statut    |
 |-------------------|-------------------------------------------------------|-----------------------------------------|-----------|
-| `ft_printf.c`     | Le cœur de l'implémentation de 'ft_printf'            | Traitement des formats et affichage     | Complet   |
-| `parse_format.c	` | Parse les spécificateurs de format                    | Analyse de la chaîne de format          | Complet   |
-| `print_char.c	`   | Fonctions pour imprimer des caractères et des chaînes | Gestion de '%c' et '%s'                 | Complet   |
-| `print_numbers.c' | Fonctions pour imprimer des nombres                   | Gestion de '%d', '%i', '%u', '%x', '%X' | Complet   |
-| `utils.c'         | Fonctions utilitaires pour l'implémentation           | Diverses aides pour l'impression        | Complet   |
+| `ft_printf.c`     | Le cœur de l'implémentation de `ft_printf`            | Traitement des formats et affichage     | Complet   |
+| `parse_format.c`  | Parse les spécificateurs de format                    | Analyse de la chaîne de format          | Complet   |
+| `print_char.c`    | Fonctions pour imprimer des caractères et des chaînes | Gestion de `%c` et `%s`                 | Complet   |
+| `print_numbers.c` | Fonctions pour imprimer des nombres                   | Gestion de `%d`, `%i`, `%u`, `%x`, `%X` | Complet   |
+| `utils.c`         | Fonctions utilitaires pour l'implémentation           | Diverses aides pour l'impression        | Complet   |
 | `Makefile`        | Fichier pour compiler le projet et créer la librairie | Compilation                             | Complet   |
 
 ## Installation et Compilation
