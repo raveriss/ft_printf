@@ -18,10 +18,11 @@ Ce projet vise à recoder la fonction printf() de la libc. L'objectif est d'appr
 | `Makefile`        | Fichier pour compiler le projet et créer la librairie | Compilation                             | Complet   |
 
 ## Installation et Compilation
-
+```
 git clone git@github.com:raveriss/ft_printf.git
 cd ft_printf
 make
+```
 
 ## Utilisation
 Incluez ft_printf.h dans votre projet et liez avec libftprintf.a lors de la compilation. Utilisez ft_printf comme vous utiliseriez printf.
