@@ -41,5 +41,7 @@ write
 va_start, va_arg, va_copy, va_end
 
 ## Ressources et Remerciements
-Tutoriel sur printf: YouTube - Glootie
-Guide sur les fonctions à nombre variable d'arguments: Blog Perhonen
+
+- Tutoriel sur `printf`: [YouTube - Glootie](https://www.youtube.com/watch?v=xgK-U1Jj92Q&ab_channel=Glootie)
+- Guide sur les fonctions à nombre variable d'arguments: [Blog Perhonen](https://perhonen.fr/blog/2016/01/faire-fonction-nombre-arguments-variable-en-c-2701)
+
