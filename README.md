@@ -19,7 +19,7 @@ Ce projet vise à recoder la fonction printf() de la libc. L'objectif est d'appr
 
 ## Installation et Compilation
 
-git clone VOTRE_URL_DE_REPOSITORY
+git clone git@github.com:raveriss/ft_printf.git
 cd ft_printf
 make
 
