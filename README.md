@@ -1,6 +1,6 @@
 # Projet ft_printf
 <div align="center">
-  <img src="URL_DE_L'IMAGE_BADGE_FTPRINTF" alt="Badge du projet ft_printf">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png" alt="Badge du projet ft_printf">
 </div>
 
 ## Description
